@@ -65,11 +65,11 @@ O conteúdo é apresentado de forma simples e propondo diversos exercícios prá
   - Criando células na tabela que se estendem por muitas linhas
   - Revisão
 
-- Seção 6 - Blocos - Usando <div> e <span> para agrupar e alterar a visualização
-  - Para que serve equando usar <div> ou <span> 
-  - Agrupando conteúdo com a tag <div>
+- Seção 6 - Blocos - Usando ``<div>`` e ``<span>`` para agrupar e alterar a visualização
+  - Para que serve equando usar ``<div>`` ou ``<span>`` 
+  - Agrupando conteúdo com a tag ``<div>``
   - Alterando a apresentação do conteúdo com CSS
-  - Alterando o estilo de parte de um texto com <span>
+  - Alterando o estilo de parte de um texto com ``<span>``
   - Revisão
 
 - Seção 7 - Usando Classes em HTML
