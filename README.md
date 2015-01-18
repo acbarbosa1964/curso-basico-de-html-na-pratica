@@ -21,7 +21,7 @@ O conteúdo é apresentado de forma simples e propondo diversos exercícios prá
 - Seção 1 - O Curso - Apresentação Inicial
  
 
-- Seção 2 - Introcução - Visão geral do curso
+- Seção 2 - Introdução - Visão geral do curso
   - O que é HTML?
   - Como criar e executar um programa HTML
   - HTML e CSS
@@ -94,7 +94,7 @@ O conteúdo é apresentado de forma simples e propondo diversos exercícios prá
   - Inserindo o conteúdo de um link em um frame
   - Revisão
 
-- Seção 10 - Responsivo - Criando sites para multiplos formatos de tela
+- Seção 10 - Responsivo - Criando sites para múltiplos formatos de tela
   - O que é um site responsivo?
   - Multiplos tamanhos, formatos e dispositivos
   - Criando uma página WEB responsiva
@@ -120,7 +120,7 @@ O conteúdo é apresentado de forma simples e propondo diversos exercícios prá
   - Alterando o conteúdo de um parágrafo com Javascript;
   - Revisão
 
-- Seção 14 - Recursos externos - Carregando estilos e funçoes externas
+- Seção 14 - Recursos externos - Carregando estilos e funções externas
   - Porque acessar recursos externos à nossa página?
   - Criando uma folha de estilo em um arquivo do tipo .css
   - Criando scripts Javascript em um arquivo do tipo .js
@@ -142,7 +142,7 @@ O conteúdo é apresentado de forma simples e propondo diversos exercícios prá
   - Fornecendo informações sobre o site
   - Criando a ficha de contato
 
-- Seção 16 - Hospedagem - Puplicando o site
+- Seção 16 - Hospedagem - Publicando o site
   - Como criar uma conta para publicar o site
   - Transferindo os arquivos por FTP
   - Testando na WEB
